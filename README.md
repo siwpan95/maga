@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **game-prototypes**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/maga` 分支；活跃维护请前往 **game-prototypes**。
+> _This repo is archived into game-prototypes; development continues there. Do not commit here._
+
 # 重装机兵同人游戏（maga）
 
 > **非商业同人作品**，致敬 DATA EAST / Crea-Tech《重装机兵 METAL MAX》系列（初代 1991，FC）。
